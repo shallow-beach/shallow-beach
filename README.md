@@ -1,1 +1,1 @@
-[GitGnome](https://en.wikipedia.org/wiki/Wikipedia:WikiGnome) in training $~~~~~~~~$ <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Mushroom.svg" alt="drawing" width="22"/>
+[GitGnome](https://en.wikipedia.org/wiki/Wikipedia:WikiGnome) in training &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Mushroom.svg" alt="drawing" width="22"/>
